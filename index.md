@@ -1,5 +1,7 @@
 ## Welcome to the CPSC 481 Project page!
+
 ## Project members:
+
   - [Amir Hussain](https://github.com/amir-hu)
   - [Alex Stark](https://github.com/Xelakrats)
   - [Bhavan Pahuja](https://github.com/BhavanPahuja)
