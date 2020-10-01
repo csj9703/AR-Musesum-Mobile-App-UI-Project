@@ -1,2 +1,1 @@
-# CPSC-481-Project
-A repository for CPSC 481 team project.
+# Stage one of CPSC 481 Project
