@@ -8,9 +8,18 @@
   - [Israa Farouk](https://github.com/israa-farouk)
   - [Jason Chen](https://github.com/csj9703)
   
-## Stage One
+## Project Stages
+<details>
+  <summary><b>Stage one</b></summary>
+<br>
+<p>We have decided on three possible project ideas:</p>
+  <ul><li><b>A museum app</b></li>
+<li><b>A crime scene analysis tool</b></li>
+<li><b>A Fitness app</b></li></ul>
+</details>
 
-We have decided on three possible project ideas:
-  - **A museum app**
-  - **A crime scene analysis tool**
-  - **A Fitness app**
+---
+
+<details>
+<summary>Stage two</summary>
+</details>
