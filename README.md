@@ -7,3 +7,5 @@ This project is an AR app aimed at people who like to visit museums. This app ai
   - [Bhavan Pahuja](https://github.com/BhavanPahuja)
   - [Israa Farouk](https://github.com/israa-farouk)
   - [Jason Chen](https://github.com/csj9703)
+## Project Portfolio Link:
+https://csj9703.github.io/CPSC-481-Project/
