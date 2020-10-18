@@ -132,12 +132,20 @@ This is one of many scenarios that showcase the usability and problem solving th
  </details>
 </details>
 
+---
+
 <details>
   <summary>Stage three</summary>
 </details>
+
+---
+
 <details>
   <summary>Stage four</summary>
 </details>
+
+---
+
 <details>
   <summary>Stage five</summary>
 </details>
