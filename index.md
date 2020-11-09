@@ -133,6 +133,8 @@ This is one of many scenarios that showcase the usability and problem solving th
  </details>
 </details> 
 
+---
+
 <details>
   <summary><b>Stage three</b></summary>
   <p><b>For full report with images goes to https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf</b></p>
