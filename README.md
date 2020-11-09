@@ -1,4 +1,4 @@
-### Stage Three - Ideation
+### Stage Three - Ideation!
 
 In this stage we did ideation for our museum app.
 
