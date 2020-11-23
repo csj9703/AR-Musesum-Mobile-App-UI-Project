@@ -213,7 +213,7 @@ From this I see the importance of discussion and planning before jumping right i
 <details>
   <summary><b>Stage four</b></summary>
   <br>
-  <p><b>For full report with images goes to <insert Link> </b></p>
+  <p><b>For full report with images goes to LINK</b></p>
 </details>
 
 ---
