@@ -220,4 +220,6 @@ From this I see the importance of discussion and planning before jumping right i
 
 <details>
   <summary>Stage five</summary>
+  <br>
+  <p><b>To be added...</b></p>
 </details>
