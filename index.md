@@ -141,9 +141,6 @@ This is one of many scenarios that showcase the usability and problem solving th
   <summary><b>Stage three</b></summary>
   <br>
   <p><b>For full report with images goes to https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf</b></p>
-  
-  ---
-  
 <p><b>Project Description:</b></p>
   <p>
 This project is an AR app aimed at people who visit museums. This app aims to replace thestandard of looking at the physical plaque descriptions with being able to point yourcamera at an artifact, scanning it, and seeing or hearing the corresponding description inthe app. The app also aims to provide AR models of artifacts with audio & visualdescriptions and allows users to then take pictures with these AR models and post them tosocial media. The artifacts can also have relevant animations that users can view. This appaims to transform the typical museum experience into a more hands on and interactiveone while also accommodating for people with disabilities or language barriers byproviding multiple ways to consume information provided about the exhibits
@@ -219,9 +216,6 @@ From this I see the importance of discussion and planning before jumping right i
   <summary><b>Stage four</b></summary>
   <br>
   <p><b>For full report with images goes to LINK</b></p>
-  
-  ---
-  
 </details>
 
 ---
