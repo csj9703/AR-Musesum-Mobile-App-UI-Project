@@ -154,7 +154,7 @@ This project is an AR app aimed at people who visit museums. This app aims to re
 <li> User leaves the selected museum page. </li>
  <li> User signs out of the app.</li>
 </ul>
-
+<br>
 <p><b>List of User Tasks that were prototyped Vertically: </b></p>
 <ul>
 <li> User Scans an Artifact
@@ -171,7 +171,7 @@ This project is an AR app aimed at people who visit museums. This app aims to re
     <li> User views AR animation of the artifact.</li>
     <li> User takes a picture with the AR artifact.</li>
     </ul>
-      <ul> <li>User shares the picture on social media</li></ul>
+      <ul><li>User shares the picture on social media</li></ul>
  <ul><li>User takes a time based tour</li></ul>
   <ul>
     <li>User selects the desired end time of their tour.</li>
@@ -200,7 +200,7 @@ One thing that we could have done to improve our cognitive walkthrough process i
 <p><b>Refelction</b></p>
 Overall stage 3 went relatively smoothly for our team, we excelled in communication anddelegation. We held frequent meetings and shared all our work while in progress and aftercompletion this helped us all uphold the same level of consistency across our work anexample of this is; while we were creating our low-fidelity prototype we used the Balsamiqcloud feature, this gave us the ability to work on the wireframes in one place, this made iteasier to link wireframes together and be consistent with design features (Eg: look andcolour of buttons, etc) throughout our prototype even once tasks had been delegated.The only thing our team struggled with was creating the Affinity diagram, we all haddifferent understandings of what an affinity diagram was and this caused us to redo itmultiple times
 From this I see the importance of discussion and planning before jumping right into thetask at hand as this saves time in the long run and if we were to do it again that is definitelysomething that should be done first. Another thing that we would have differently is todelegate the cognitive walkthrough tasks to team members that weren’t directly involved inthe designing of those tasks as this would give a more unbiased view of the intuitivenessand flow of the steps in the task.
-</details>
+
 
 ---
 
