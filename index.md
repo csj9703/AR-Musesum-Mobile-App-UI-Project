@@ -137,6 +137,7 @@ This is one of many scenarios that showcase the usability and problem solving th
 
 <details>
   <summary><b>Stage three</b></summary>
+  <br>
   <p><b>For full report with images goes to https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf</b></p>
 <p><b>Project Description:</b></p>
 This project is an AR app aimed at people who visit museums. This app aims to replace thestandard of looking at the physical plaque descriptions with being able to point yourcamera at an artifact, scanning it, and seeing or hearing the corresponding description inthe app. The app also aims to provide AR models of artifacts with audio & visualdescriptions and allows users to then take pictures with these AR models and post them tosocial media. The artifacts can also have relevant animations that users can view. This appaims to transform the typical museum experience into a more hands on and interactiveone while also accommodating for people with disabilities or language barriers byproviding multiple ways to consume information provided about the exhibits
@@ -189,12 +190,14 @@ This project is an AR app aimed at people who visit museums. This app aims to re
   </ul>
   </ul>
   <p><b>Cognitive Evaluation</b></p>
+  <p>
   We approached our cognitive evaluation through a user’s point of view. We carefullyexamined, analysed and noted every single step that we did for each of the tasks,evaluated if it was intuitive and if a typical user would know to do the same. We weremeticulous and included even minute steps such as clicking the next button as we wantedto make sure that everything we did was clear, thorough and concise.
   By examining the cognitive walkthrough for​ Task 1; Timed Tour​ we can see that we lead &direct the user too much. People may want different things from a tour, and currently weonly account for one type of customer; those who want to see artifacts in great detail.Some may just want a brief description through a small pop up explaining the artifact,while others may want information on the exhibit as a whole and not care too much abouteach individual artifact. We do not account for these possibilities and force the user to takethe tour in this more detailed artifact by artifact way
   By examining the cognitive walkthrough for ​Task 2; Virtual Map​ it is evident that we havea lot of oversights in our prototype. Most users don’t  want to have to read instructions onhow to use a certain feature in the app, however sometimes it is necessary. As seen in thiswalkthrough the user is left to put pieces together on their own, this may be intuitive tosome, however it is more likely to be unintuitive. This helped us see that perhaps we2
 should add in some instructional boxes to help the user understand how to do certainthings .
 Lastly by examining the cognitive walkthrough for​ Task 3; AR Display​  we realized that ARis not a common feature used by most apps, because of this we must assume people areunfamiliar with how it works. As a result we should have had an optional  tutorial on how touse the AR features in the app. Without this tutorial some users may be lost and be forcedto spend time figuring it out on their own, this may lead to a lot of users simply ignoring theAR features. Therefore, a way to familiarize users with AR is necessary.
 One thing that we could have done to improve our cognitive walkthrough process is tohave teammates deal with the features that they were less familiar with (i.e they did notwork on the prototypes for these features). As this would have made it easier to look at thetasks with unbiased eyes and a fresh set of eyes would be able to see if the tasks were clearand intuitive.
+</p>
 <p><b>Refelction</b></p>
 Overall stage 3 went relatively smoothly for our team, we excelled in communication anddelegation. We held frequent meetings and shared all our work while in progress and aftercompletion this helped us all uphold the same level of consistency across our work anexample of this is; while we were creating our low-fidelity prototype we used the Balsamiqcloud feature, this gave us the ability to work on the wireframes in one place, this made iteasier to link wireframes together and be consistent with design features (Eg: look andcolour of buttons, etc) throughout our prototype even once tasks had been delegated.The only thing our team struggled with was creating the Affinity diagram, we all haddifferent understandings of what an affinity diagram was and this caused us to redo itmultiple times
 From this I see the importance of discussion and planning before jumping right into thetask at hand as this saves time in the long run and if we were to do it again that is definitelysomething that should be done first. Another thing that we would have differently is todelegate the cognitive walkthrough tasks to team members that weren’t directly involved inthe designing of those tasks as this would give a more unbiased view of the intuitivenessand flow of the steps in the task.
@@ -204,7 +207,9 @@ From this I see the importance of discussion and planning before jumping right i
 ---
 
 <details>
-  <summary>Stage four</summary>
+  <summary><b>Stage four</b></summary>
+  <br>
+  <p><b>For full report with images goes to https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf</b></p>
 </details>
 
 ---
