@@ -188,7 +188,6 @@ This project is an AR app aimed at people who visit museums. This app aims to re
     <li>User clears all markings on the map.</li>
     <li>User exits the map to go back to the museum home page</li>
   </ul>
-  </ul>
   <p><b>Cognitive Evaluation</b></p>
   <p>
   We approached our cognitive evaluation through a user’s point of view. We carefullyexamined, analysed and noted every single step that we did for each of the tasks,evaluated if it was intuitive and if a typical user would know to do the same. We weremeticulous and included even minute steps such as clicking the next button as we wantedto make sure that everything we did was clear, thorough and concise.
@@ -201,7 +200,6 @@ One thing that we could have done to improve our cognitive walkthrough process i
 <p><b>Refelction</b></p>
 Overall stage 3 went relatively smoothly for our team, we excelled in communication anddelegation. We held frequent meetings and shared all our work while in progress and aftercompletion this helped us all uphold the same level of consistency across our work anexample of this is; while we were creating our low-fidelity prototype we used the Balsamiqcloud feature, this gave us the ability to work on the wireframes in one place, this made iteasier to link wireframes together and be consistent with design features (Eg: look andcolour of buttons, etc) throughout our prototype even once tasks had been delegated.The only thing our team struggled with was creating the Affinity diagram, we all haddifferent understandings of what an affinity diagram was and this caused us to redo itmultiple times
 From this I see the importance of discussion and planning before jumping right into thetask at hand as this saves time in the long run and if we were to do it again that is definitelysomething that should be done first. Another thing that we would have differently is todelegate the cognitive walkthrough tasks to team members that weren’t directly involved inthe designing of those tasks as this would give a more unbiased view of the intuitivenessand flow of the steps in the task.
-
 </details>
 
 ---
