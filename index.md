@@ -209,7 +209,7 @@ From this I see the importance of discussion and planning before jumping right i
 <details>
   <summary><b>Stage four</b></summary>
   <br>
-  <p><b>For full report with images goes to https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf</b></p>
+  <p><b>For full report with images goes to <insert Link> </b></p>
 </details>
 
 ---
