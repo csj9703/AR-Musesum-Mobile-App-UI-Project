@@ -140,7 +140,9 @@ This is one of many scenarios that showcase the usability and problem solving th
   <br>
   <p><b>For full report with images goes to https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf</b></p>
 <p><b>Project Description:</b></p>
+  <p>
 This project is an AR app aimed at people who visit museums. This app aims to replace thestandard of looking at the physical plaque descriptions with being able to point yourcamera at an artifact, scanning it, and seeing or hearing the corresponding description inthe app. The app also aims to provide AR models of artifacts with audio & visualdescriptions and allows users to then take pictures with these AR models and post them tosocial media. The artifacts can also have relevant animations that users can view. This appaims to transform the typical museum experience into a more hands on and interactiveone while also accommodating for people with disabilities or language barriers byproviding multiple ways to consume information provided about the exhibits
+  </p>
 <p><b>List of User Tasks that were prototyped Horizontally: </b></p>
 <ul>
 <li> User signs up for an account with the app.</li>
@@ -154,40 +156,42 @@ This project is an AR app aimed at people who visit museums. This app aims to re
 <li> User leaves the selected museum page. </li>
  <li> User signs out of the app.</li>
 </ul>
-<br>
 <p><b>List of User Tasks that were prototyped Vertically: </b></p>
 <ul>
-<li> User Scans an Artifact
+  <li> User scans an artiffact.</li>
   <ul>
-  <li> User listens to an audio description about the scanned artifact.</li>
-  <li> User reads a text description about the scanned artifact.</li>
-  <li> User selects Videos to watch related videos about the scanned artifact.</li>
+    <li> User listens to an audio description about the scanned artifact.</li>
+    <li> User reads a text description about the scanned artifact.</li>
+    <li> User selects Videos to watch related videos about the scanned artifact.</li>
+    <ul>
+      <li> User selects one video from the list of related videos to watch.</li>
     </ul>
-    <ul><li>User selects one video from the list of related videos to watch.</li></ul>
-  <li>User places an artifact in AR.</li>
-  <ul>
-    <li> User listens to an audio description about the placed AR artifact.</li>
-    <li> User reads text based AR info on the placed AR model.</li>
-    <li> User views AR animation of the artifact.</li>
-    <li> User takes a picture with the AR artifact.</li>
+    <li> User places an artifact in AR.</li>
+    <ul>
+      <li> User listens to an audio description about the placed AR artifact.</li>
+      <li> User reads text based AR info on the placed AR model.</li>
+      <li> User views AR animation of the artifact.</li>
+      <li> User takes a picture with the AR artifact.</li>
+      <li> User shares the picture on social media.</li>
     </ul>
-      <ul><li>User shares the picture on social media</li></ul>
- <ul><li>User takes a time based tour</li></ul>
-  <ul>
-    <li>User selects the desired end time of their tour.</li>
-    <li>User selects the desired artifact to view.</li>
-    <li>User scans an artifact.</li>
-    <li>User views their current location on a mini map.</li>
-    <li>User pauses their tour.</li>
-      <li>User ends their tour.</li>
-    </ul>
-  <li>User interacts with a virtual map of the museum.</li>
-  <ul>
-    <li>User marks visited areas on the map.</li>
-    <li>User unmarks accidentally marked areas on the map.</li>
-    <li>User clears all markings on the map.</li>
-    <li>User exits the map to go back to the museum home page</li>
   </ul>
+  <li> User takes a time based tour.</li>
+  <ul>
+    <li> User selects the desired end time of their tour.</li>
+    <li> User selects the desired artifact to view.</li>
+    <li> User scans an artifact.</li>
+    <li> User views their current location on a mini map.</li>
+    <li> User pauses their tour.</li>
+    <li> User ends their tour.</li>
+  </ul>
+  <li> User interacts with a virtual map of the museum.</li>
+  <ul>
+    <li> User marks visited areas on the map.</li>
+    <li> User unmarks accidentally marked areas on the map.</li>
+    <li> User clears all markings on the map.</li>
+    <li> User exits the map to go back to the museum home page.</li>
+  </ul>
+</ul>
   <p><b>Cognitive Evaluation</b></p>
   <p>
   We approached our cognitive evaluation through a user’s point of view. We carefullyexamined, analysed and noted every single step that we did for each of the tasks,evaluated if it was intuitive and if a typical user would know to do the same. We weremeticulous and included even minute steps such as clicking the next button as we wantedto make sure that everything we did was clear, thorough and concise.
@@ -198,10 +202,12 @@ Lastly by examining the cognitive walkthrough for​ Task 3; AR Display​  we r
 One thing that we could have done to improve our cognitive walkthrough process is tohave teammates deal with the features that they were less familiar with (i.e they did notwork on the prototypes for these features). As this would have made it easier to look at thetasks with unbiased eyes and a fresh set of eyes would be able to see if the tasks were clearand intuitive.
 </p>
 <p><b>Refelction</b></p>
+  <p>
 Overall stage 3 went relatively smoothly for our team, we excelled in communication anddelegation. We held frequent meetings and shared all our work while in progress and aftercompletion this helped us all uphold the same level of consistency across our work anexample of this is; while we were creating our low-fidelity prototype we used the Balsamiqcloud feature, this gave us the ability to work on the wireframes in one place, this made iteasier to link wireframes together and be consistent with design features (Eg: look andcolour of buttons, etc) throughout our prototype even once tasks had been delegated.The only thing our team struggled with was creating the Affinity diagram, we all haddifferent understandings of what an affinity diagram was and this caused us to redo itmultiple times
 From this I see the importance of discussion and planning before jumping right into thetask at hand as this saves time in the long run and if we were to do it again that is definitelysomething that should be done first. Another thing that we would have differently is todelegate the cognitive walkthrough tasks to team members that weren’t directly involved inthe designing of those tasks as this would give a more unbiased view of the intuitivenessand flow of the steps in the task.
-
-
+  </p>
+</details>
+  
 ---
 
 <details>
