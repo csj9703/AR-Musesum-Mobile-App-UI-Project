@@ -35,15 +35,15 @@ This project is an AR app aimed at people who like to visit museums. This app ai
   <br>
   <p><b>For full report with images goes to https://github.com/csj9703/CPSC-481-Project/blob/stage_two/Stage%20Two%20Report.pdf</b></p>
   <p><b>We have decided on the idea of a AR museum app</b></p>
-  <p><b>Project Description:</b></p>
+  <h3>Project Description:</h3>
   This project is an AR app aimed at people who like to visit museums. This app aims to replace the current standard of looking at the physical plaque descriptions at each display with being able to point your camera at an artifact and have the description appear on your phone or be read out to you. We also aim to provide more than just the text description of the artifacts, for example if the artifact is a dinosaur skeleton the app will allow users to see what scientists believe the dinosaur may have looked like, or if the artifact is a sword it can also display other relevant artifacts and related information such as the person who wielded the sword. The objective of this app is to transform the typical museum experience of just looking and reading into a more hands on and interactive experience, while also accommodating people with disabilities or language barriers by providing multiple ways to consume the information provided about exhibits. The goal is to engage and immerse users into the world of the artifacts.
   </p>
-<p><b>Stakeholders & Users:</b></p>
+<h3>Stakeholders & Users:</h3>
   <ul>
   <li>Museum Visitors</li>
     <li>Museum Employees</li>
   </ul>
-<p>User task descriptions:</p>
+<h3>User task descriptions:</h3>
 <ul>
   <li>Must be included</li>
   <ul>
@@ -60,7 +60,7 @@ This project is an AR app aimed at people who like to visit museums. This app ai
     <li>Share visits on social media</li>
   <li>Show what areas of the museum have/have not been visited </li></ul>
 </ul>
-<p><b>IDEO cards:</b></p>
+<h3>IDEO cards:</h3>
 <ul>
   <li>Survey and Questionnaires (Ask)</li>
   <li>Competitive Product Survey (Learn)</li>
@@ -141,7 +141,7 @@ This is one of many scenarios that showcase the usability and problem solving th
   <summary><b>Stage three</b></summary>
   <br>
   <p><b>For full report with images goes to https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf</b></p>
-<p><b>Project Description:</b></p>
+<h3>Project Description:</h3>
   <p>
 This project is an AR app aimed at people who visit museums. This app aims to replace thestandard of looking at the physical plaque descriptions with being able to point yourcamera at an artifact, scanning it, and seeing or hearing the corresponding description inthe app. The app also aims to provide AR models of artifacts with audio & visualdescriptions and allows users to then take pictures with these AR models and post them tosocial media. The artifacts can also have relevant animations that users can view. This appaims to transform the typical museum experience into a more hands on and interactiveone while also accommodating for people with disabilities or language barriers byproviding multiple ways to consume information provided about the exhibits
   </p>
@@ -174,7 +174,9 @@ This project is an AR app aimed at people who visit museums. This app aims to re
       <li> User reads text based AR info on the placed AR model.</li>
       <li> User views AR animation of the artifact.</li>
       <li> User takes a picture with the AR artifact.</li>
-      <li> User shares the picture on social media.</li>
+      <ul>
+        <li> User shares the picture on social media.</li>
+      </ul>
     </ul>
   </ul>
   <li> User takes a time based tour.</li>
@@ -194,7 +196,7 @@ This project is an AR app aimed at people who visit museums. This app aims to re
     <li> User exits the map to go back to the museum home page.</li>
   </ul>
 </ul>
-  <p><b>Cognitive Evaluation</b></p>
+  <h3>Cognitive Evaluation</h3>
   <p>
   We approached our cognitive evaluation through a user’s point of view. We carefullyexamined, analysed and noted every single step that we did for each of the tasks,evaluated if it was intuitive and if a typical user would know to do the same. We weremeticulous and included even minute steps such as clicking the next button as we wantedto make sure that everything we did was clear, thorough and concise.
   By examining the cognitive walkthrough for​ Task 1; Timed Tour​ we can see that we lead &direct the user too much. People may want different things from a tour, and currently weonly account for one type of customer; those who want to see artifacts in great detail.Some may just want a brief description through a small pop up explaining the artifact,while others may want information on the exhibit as a whole and not care too much abouteach individual artifact. We do not account for these possibilities and force the user to takethe tour in this more detailed artifact by artifact way
@@ -203,7 +205,7 @@ should add in some instructional boxes to help the user understand how to do cer
 Lastly by examining the cognitive walkthrough for​ Task 3; AR Display​  we realized that ARis not a common feature used by most apps, because of this we must assume people areunfamiliar with how it works. As a result we should have had an optional  tutorial on how touse the AR features in the app. Without this tutorial some users may be lost and be forcedto spend time figuring it out on their own, this may lead to a lot of users simply ignoring theAR features. Therefore, a way to familiarize users with AR is necessary.
 One thing that we could have done to improve our cognitive walkthrough process is tohave teammates deal with the features that they were less familiar with (i.e they did notwork on the prototypes for these features). As this would have made it easier to look at thetasks with unbiased eyes and a fresh set of eyes would be able to see if the tasks were clearand intuitive.
 </p>
-<p><b>Refelction</b></p>
+<h3>Refelction</h3>
   <p>
 Overall stage 3 went relatively smoothly for our team, we excelled in communication anddelegation. We held frequent meetings and shared all our work while in progress and aftercompletion this helped us all uphold the same level of consistency across our work anexample of this is; while we were creating our low-fidelity prototype we used the Balsamiqcloud feature, this gave us the ability to work on the wireframes in one place, this made iteasier to link wireframes together and be consistent with design features (Eg: look andcolour of buttons, etc) throughout our prototype even once tasks had been delegated.The only thing our team struggled with was creating the Affinity diagram, we all haddifferent understandings of what an affinity diagram was and this caused us to redo itmultiple times
 From this I see the importance of discussion and planning before jumping right into thetask at hand as this saves time in the long run and if we were to do it again that is definitelysomething that should be done first. Another thing that we would have differently is todelegate the cognitive walkthrough tasks to team members that weren’t directly involved inthe designing of those tasks as this would give a more unbiased view of the intuitivenessand flow of the steps in the task.
@@ -216,6 +218,53 @@ From this I see the importance of discussion and planning before jumping right i
   <summary><b>Stage four</b></summary>
   <br>
   <p><b>For full report with images goes to LINK</b></p>
+  <h3>Project Description</h3>
+  <p>
+    This project is an AR app aimed at people who visit museums. This app aims to replace the standard of looking at the physical plaque descriptions with being able to point your camera at an artifact, scanning it, and seeing or hearing the corresponding description in the app. The app also aims to provide AR models of artifacts with audio & visual descriptions and allows users to then take pictures with these AR models and post them to social media. The artifacts can also have relevant animations that users can view. This app aims to transform the typical museum experience into a more hands on and interactive one while also accommodating for people with disabilities or language barriers by providing multiple ways to consume information provided about the exhibits.  
+  </p>
+  <p><b>UPDATED List of User Tasks that were prototyped Vertically:</b></p>
+  <ul>
+    <li> User purchases museum tickets.</li>
+    <ul>
+      <li> User chooses the ticket type.</li>
+      <li> User pays for the ticket.</li>
+      <li> User shows QR code to the cashier.</li>
+    </ul>
+  </ul>
+  <h3>Heuristic Evaluation:</h3>
+  <h3>Process</h3>
+  <p>
+    We started our Heuristic Evaluation process by dividing our team into three evaluators and two reviewers.
+  </p>
+  <p><b>Evaluator:</b></p>
+  <p>
+    As an evaluator when conducting the heuristic evaluation, we first started by ensuring we understood each rule of thumb very clearly before we moved on. Since we are conducting the evaluation on our own prototype due to Covid-19 restrictions, it is important that we have no bias when we evaluate the prototype. Afterwards, we check each rule of thumb and run our prototype checking to see if each rule applies. Next, we run through the prototype a second time checking each rule to see if there exist any violations. Lastly, we take a look at how each rule can further improve the usability, utility, and desirability of our prototype.
+  </p>
+  <p><b>Reviewers:</b></p>
+  <p>
+    As a reviewer when conducting the review of the heuristic evaluations, we first established the severity rating scale. Then we each conducted our own review of the problems expressed in each of the heuristic evaluations. We analyzed each problem brought up by the evaluators in their evaluation and assigned a severity rating from (0-4) and stated our reasoning behind the rating in our review report.
+  </p>
+  <h3>Findings</h3>
+  <p>
+    After the heuristic evaluation of the prototype we were able to find several issues. Many of them were minor cosmetic issues, others were more drastic and needed more attention, we were able to identify this easily due to the severity ratings assigned to each problem. While developing the application, we were unaware of issues that a user might face but doing the heuristic evaluation allowed us to diagnose these usability issues easily. One major issue that we had failed to catch was error messages. Error messages are an integral part in every app, problems are bound to occur no matter what. Users cannot be expected to always know exactly how to use the app, and oftentimes they will stray away from the apps functionality. The developer must be ready for these issues, they must be able to anticipate issues to increase usability. An example of this was the AR scanning section, when scanning for an artifact there are a number of things that can go wrong. Even more so since the technology of AR is not commonly used. This can lead to several user errors that can frustrate the user and deter usability. By adding a quick error message if they cannot find the artifact, we begin to guide the user to how they should use the app. By doing this we increase usability, and improve user experience overall. 
+  </p>
+  <h3>Decisions that were made</h3>
+  <p>
+    We made decisions on what problems we could fix and then we brainstormed and discussed possible solutions for each of the problems and implemented the ones we determined to be the best solution.
+  </p>
+  <h3>Reflection</h3>
+  <p><b>What went well:</b></p>
+  <p>
+    Splitting our team into Evaluators and Reviewers helped us delegate tasks effectively. Doing a portion of the evaluation individually initially helped us ensure that all voices in the team were heard and aided in the visualisation of different viewpoints on the prototype. During the discussion stage after the evaluation our team had a variety of solutions to the problems we encountered and this helped us merge ideas and select the best solution to implement.
+  </p>
+  <p><b>What went poorly:</b></p>
+  <p>
+    Our team found it difficult to evaluate the prototype from the user’s perspective. Since we were the ones to make it if we saw any issues we fixed them immediately. Due to this when we had to evaluate the prototype, we ended up getting stuck several times. We could not help but to look at the prototype with biased eyes. And because of this it was more likely for us to have missed a vital piece of information.
+  </p>
+  <p><b>What would we do differently:</b></p>
+  <p>
+    If we were to do the evaluation again, we believe it is in our best interest to have another group conduct the evaluation on our prototype, this would lead to a completely unbiased evaluation. It would be easier for other groups to discover problems since it will be from a completely different perspective. 
+  </p>
 </details>
 
 ---
