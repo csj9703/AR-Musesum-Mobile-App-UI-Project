@@ -33,7 +33,7 @@ This project is an AR app aimed at people who like to visit museums. This app ai
 <details>
   <summary><b>Stage two</b></summary>
   <br>
-  <p><b>For full report with images goes to</b> <a href="https://github.com/csj9703/CPSC-481-Project/blob/stage_two/Stage%20Two%20Report.pdf">here.</a>
+  <p><b>For full report with images click</b> <a href="https://github.com/csj9703/CPSC-481-Project/blob/stage_two/Stage%20Two%20Report.pdf">here</a>.</p>
     
   <p><b>We have decided on the idea of a AR museum app</b></p>
   <h3>Project Description:</h3>
