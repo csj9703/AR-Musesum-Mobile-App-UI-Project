@@ -33,7 +33,8 @@ This project is an AR app aimed at people who like to visit museums. This app ai
 <details>
   <summary><b>Stage two</b></summary>
   <br>
-  <p><b>For full report with images goes to https://github.com/csj9703/CPSC-481-Project/blob/stage_two/Stage%20Two%20Report.pdf</b></p>
+  <p><b>For full report with images goes to</b> <a href="https://github.com/csj9703/CPSC-481-Project/blob/stage_two/Stage%20Two%20Report.pdf">here.</a>
+    
   <p><b>We have decided on the idea of a AR museum app</b></p>
   <h3>Project Description:</h3>
   This project is an AR app aimed at people who like to visit museums. This app aims to replace the current standard of looking at the physical plaque descriptions at each display with being able to point your camera at an artifact and have the description appear on your phone or be read out to you. We also aim to provide more than just the text description of the artifacts, for example if the artifact is a dinosaur skeleton the app will allow users to see what scientists believe the dinosaur may have looked like, or if the artifact is a sword it can also display other relevant artifacts and related information such as the person who wielded the sword. The objective of this app is to transform the typical museum experience of just looking and reading into a more hands on and interactive experience, while also accommodating people with disabilities or language barriers by providing multiple ways to consume the information provided about exhibits. The goal is to engage and immerse users into the world of the artifacts.
@@ -75,7 +76,7 @@ This project is an AR app aimed at people who like to visit museums. This app ai
   <br><br>
   Survey the stakeholders about the current interactions between visitors and artifacts.
   <br><br>
-  We surveyed potential museum visitors by publishing this link (https://survey.ucalgary.ca/jfe/form/SV_2sGpfmlJy7vIIU5) to our fellow classmates.
+  We surveyed potential museum visitors by publishing this <a href="https://survey.ucalgary.ca/jfe/form/SV_2sGpfmlJy7vIIU5">link</a> to our fellow classmates.
   <br><br>
   The survey asks 7 questions regarding augmented reality and museum experiences.
   <br><br>
@@ -140,7 +141,7 @@ This is one of many scenarios that showcase the usability and problem solving th
 <details>
   <summary><b>Stage three</b></summary>
   <br>
-  <p><b>For full report with images goes to <link>https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf</link></b></p>
+  <p><b>For full report with images goes to <a href=https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf>here.</a></b></p>
 <h3>Project Description:</h3>
   <p>
 This project is an AR app aimed at people who visit museums. This app aims to replace thestandard of looking at the physical plaque descriptions with being able to point yourcamera at an artifact, scanning it, and seeing or hearing the corresponding description inthe app. The app also aims to provide AR models of artifacts with audio & visualdescriptions and allows users to then take pictures with these AR models and post them tosocial media. The artifacts can also have relevant animations that users can view. This appaims to transform the typical museum experience into a more hands on and interactiveone while also accommodating for people with disabilities or language barriers byproviding multiple ways to consume information provided about the exhibits
