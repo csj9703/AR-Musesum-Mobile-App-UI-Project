@@ -218,7 +218,8 @@ From this I see the importance of discussion and planning before jumping right i
 <details>
   <summary><b>Stage four</b></summary>
   <br>
-  <p><b>For full report with images goes to LINK</b></p>
+  <p><b>For full report with images click</b> <a href= "https://github.com/csj9703/CPSC-481-Project/blob/stage_four/Stage%20Four%20Report.pdf">here</a>.</p>
+    
   <h3>Project Description</h3>
   <p>
     This project is an AR app aimed at people who visit museums. This app aims to replace the standard of looking at the physical plaque descriptions with being able to point your camera at an artifact, scanning it, and seeing or hearing the corresponding description in the app. The app also aims to provide AR models of artifacts with audio & visual descriptions and allows users to then take pictures with these AR models and post them to social media. The artifacts can also have relevant animations that users can view. This app aims to transform the typical museum experience into a more hands on and interactive one while also accommodating for people with disabilities or language barriers by providing multiple ways to consume information provided about the exhibits.  
