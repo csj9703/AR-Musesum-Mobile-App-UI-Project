@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/csj9703/CPSC-481-Project/blob/master/assets/images/lowfiPrototype/LowFiHomescreen_Screenshot.png" /></p>
+
 ### Stage Three - Ideation!
 
 In this stage we did ideation for our museum app.
