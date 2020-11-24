@@ -141,7 +141,7 @@ This is one of many scenarios that showcase the usability and problem solving th
 <details>
   <summary><b>Stage three</b></summary>
   <br>
-  <p><b>For full report with images goes to</b> <a href=https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf>here.</a>
+  <p><b>For full report with images goes to</b> <a href=https://github.com/csj9703/CPSC-481-Project/blob/stage_three/Stage%20Three%20Report.pdf>here.</a></p>
     
 <h3>Project Description:</h3>
   <p>
