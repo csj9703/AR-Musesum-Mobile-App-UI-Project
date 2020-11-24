@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/csj9703/CPSC-481-Project/blob/master/assets/hifiPrototype/HiFiHomescreen_Screenshot.png" /></p>
+<p align="center"><img src="https://github.com/csj9703/CPSC-481-Project/blob/master/assets/images/hifiPrototype/HiFiHomescreen_Screenshot.png" /></p>
 
 ### Musemum App Project
 
