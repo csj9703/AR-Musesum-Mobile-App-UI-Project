@@ -7,3 +7,4 @@ Low Fidelity Prototype         |  High Fidelity Prototype
 In this stage:
 - Upgraded our low-fidelity prototype to a high-fidelity prototype using Adobe XD. 
 - Splitted our team into **Evaluators** and **Reviewers** for our heuristic evaluation of the Hi-Fi prototype.
+This is me trying to fix my stupid github.
