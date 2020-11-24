@@ -39,6 +39,7 @@ This project is an AR app aimed at people who like to visit museums. This app ai
     
   <p><b>We have decided on the idea of a AR museum app</b></p>
   <h3>Project Description:</h3>
+  <p>
   This project is an AR app aimed at people who like to visit museums. This app aims to replace the current standard of looking at the physical plaque descriptions at each display with being able to point your camera at an artifact and have the description appear on your phone or be read out to you. We also aim to provide more than just the text description of the artifacts, for example if the artifact is a dinosaur skeleton the app will allow users to see what scientists believe the dinosaur may have looked like, or if the artifact is a sword it can also display other relevant artifacts and related information such as the person who wielded the sword. The objective of this app is to transform the typical museum experience of just looking and reading into a more hands on and interactive experience, while also accommodating people with disabilities or language barriers by providing multiple ways to consume the information provided about exhibits. The goal is to engage and immerse users into the world of the artifacts.
   </p>
 <h3>Stakeholders & Users:</h3>
